@@ -1,0 +1,9 @@
+/build/
+/.idea/
+/.gradle/
+/src/test/
+/test.trace.db
+/test.mv.db
+/gradlew
+/gradlew.bat
+/settings.gradle
